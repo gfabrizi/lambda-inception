@@ -1,0 +1,5 @@
+.idea
+deploy.zip
+worker.zip
+node_modules
+worker/node_modules

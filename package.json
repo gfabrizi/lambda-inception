@@ -1,0 +1,9 @@
+{
+  "name": "lambda-inception",
+  "version": "1.0.0",
+  "description": "Lambda Inception",
+  "type": "module",
+  "main": "index.js",
+  "author": "Gianluca Fabrizi",
+  "license": "GPL-3.0"
+}
