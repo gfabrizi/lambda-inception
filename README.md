@@ -1,5 +1,8 @@
 # lambda-inception
 ## HOW TO USE THIS CODE
+**Link to dev.to post for explaination:**  
+[https://dev.to/gfabrizi/lambda-inception-architectural-pattern-f67](https://dev.to/gfabrizi/lambda-inception-architectural-pattern-f67)
+
 First of all you have to clone this repository and create e new Lambda function url on aws web console. Make sure to select "Node.js 18.x" from the "Runtime" dropdown menu.  
 Then install aws-cli tool (https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) and configure your account with this command:  
 ```shell
